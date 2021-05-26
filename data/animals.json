@@ -101,17 +101,17 @@
       ]
     },
     {
-      "name": "Sufjan",
-      "species": "Koala Bear",
-      "diet": "herbivore",
+      "name": "Larry",
+      "species": "Lemur",
+      "diet": "omnivore",
       "personalityTraits": [
-        "loving"
+        "hungry"
       ],
       "id": "10"
     },
     {
       "name": "Larry",
-      "species": "lemur",
+      "species": "Lemur",
       "diet": "omnivore",
       "personalityTraits": [
         "hungry"
